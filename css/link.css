@@ -1,0 +1,16 @@
+a:link {
+	color:#eeeeee;
+	text-decoration:none;
+	font-weight:bold;
+}
+a:visited {
+	color:#777777;
+	text-decoration:none;
+	font-weight:normal;
+}
+a:hover {
+	color:#0F3;
+	font-size:1.1em;
+	line-height:30px;
+	text-decoration:underline;
+}

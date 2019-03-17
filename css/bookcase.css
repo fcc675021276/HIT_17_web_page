@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+ 
+ 
+#book {
+	width:100%;
+	font-size:medium;
+}
+
+#book ul {
+	list-style-type:none;
+}
+#book ul li {
+	
+}
+#book ul li .pic {
+	float:left;
+	
+
+}
+
+#book ul li .tit {
+	
+}
+/*电脑版*/
+@media screen and (min-width:1000px) {
+	#book ul li .pic img {
+		height:200px;
+	}
+	#book ul li .tit {
+		height:200px;
+	}
+}
+/*手机版*/
+@media screen and (max-width:600px) {
+	#book ul li .pic img {
+		width:100px;
+	}
+}
+/*平板版*/
+@media screen and (max-width:1000px) and (min-width:600px) {
+	
+}

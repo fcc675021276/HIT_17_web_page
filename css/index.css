@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+@import "link.css";
+
+body {
+	background-color:#000000;
+	color:#ffffff;	
+	font-size:medium;
+}
+
+#all {
+	position:absolute;
+	width:80%;
+	height:40%;
+	top:30%;
+	left:10%;
+//	border:solid thin #ffffff;
+	text-align:center;;
+}
+
+/*电脑版*/
+@media screen and (min-width:1000px) {
+
+}
+/*手机版*/
+@media screen and (max-width:600px) {
+	
+}
+/*平板版*/
+@media screen and (max-width:1000px) and (min-width:600px) {
+	
+}
+
