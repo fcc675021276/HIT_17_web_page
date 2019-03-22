@@ -1,3 +1,7 @@
 # web_page
 fcc_first_text
 请看read_me.txt文件
+第一次关于PHP的练习
+主要涉及的PHP操作数据库
+JavaScript验证表单密码和验证码生成与核对
+css样式涉及较少
